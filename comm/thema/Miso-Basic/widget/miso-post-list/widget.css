@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.widget-miso-post-list ul { padding:0px; margin:0px; line-height:22px; list-style:none; }
+.widget-miso-post-list li { margin:0; padding:0px; }
+.widget-miso-post-list li .icon { color:#ddd; }
+.widget-miso-post-list li .count { margin-left:8px; margin-right:4px; }
+.widget-miso-post-list li .name { font-size:11px; letter-spacing:-1px; color:#999; padding-left:4px; padding-right:4px;}
+.widget-miso-post-list li.item-none { padding:50px 10px; }
+.widget-miso-post-list li.btn-wset { display:none; }

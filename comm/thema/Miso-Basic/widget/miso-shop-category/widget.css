@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.widget-miso-shop-category { }
+.widget-miso-shop-category a { display:block; }
+.widget-miso-shop-category .panel { background: none; }
+.widget-miso-shop-category .ca-head { padding: 5px 15px; border-bottom:1px solid #eee; }
+.widget-miso-shop-category .ca-head.active > a { font-weight:bold !important; color: crimson !important; }
+.widget-miso-shop-category .ca-head > a.no-sub::after { top: 0px; font-family: "FontAwesome"; float: right; position: relative; content: "\f105"; }
+.widget-miso-shop-category .ca-head > a.is-sub::after { top: 0px; font-family: "FontAwesome"; float: right; position: relative; content: "+"; }
+.widget-miso-shop-category .ca-sub { padding:0; margin:0; list-style:none; background: #fafafa; padding:4px 0px; margin:0px; border-bottom:1px solid #eee }
+.widget-miso-shop-category .ca-sub li { padding:2px 25px; padding-right:12px; }
+.widget-miso-shop-category .ca-sub li.on a { font-weight:bold !important; color: crimson !important; }
+.widget-miso-shop-category .ca-sub li.on a { font-weight:bold !important; color: crimson !important; }
+.widget-miso-shop-category .ca-line { margin:12px 0px 0px; border:0px; }
+.widget-miso-shop-category .new { color:crimson; }
+.widget-miso-shop-category .sub-new { color:crimson; }

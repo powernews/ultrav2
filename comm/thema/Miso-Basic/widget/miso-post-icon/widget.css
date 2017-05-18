@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.widget-miso-post-icon { overflow:hidden; }
+.widget-miso-post-icon ul { margin:0px; padding:0px; list-style:none; }
+.widget-miso-post-icon li { padding-bottom:8px; }
+.widget-miso-post-icon li:last-child { padding-bottom:0px; }
+.widget-miso-post-icon li .media { padding:0; margin:0; }
+.widget-miso-post-icon li .fix-icon i { width:40px; height:40px; background:#f5f5f5; color:#bbb; line-height:40px; font-size:20px; }
+.widget-miso-post-icon li .fix-icon img { width:40px; height:40px; }
+.widget-miso-post-icon li strong { line-height:20px; margin:0px; font-weight:normal; }
+.widget-miso-post-icon li .icon { color:#ddd; }
+.widget-miso-post-icon li .details { color:#aaa; line-height:20px; }
+.widget-miso-post-icon li .sp { display:inline-block; width:8px; }
+.widget-miso-post-icon li.item-none { padding:50px 10px; }
+.widget-miso-post-icon li.btn-wset { display:none; }
+.is-box-icon.widget-miso-post-icon .fix-icon i,
+.is-box-icon.widget-miso-post-icon .fix-icon img { border-radius:0 !important; }

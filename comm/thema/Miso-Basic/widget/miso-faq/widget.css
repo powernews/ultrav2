@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+.widget-miso-faq { }
+.widget-miso-faq ul { padding:0px; margin:0px; line-height:22px; list-style:none; }
+.widget-miso-faq li { margin:0; padding:0px; }
+.widget-miso-faq li .icon { color:#ddd; }
+.widget-miso-faq li.item-none { padding:50px 10px; }
+.widget-miso-faq li.btn-wset { display:none; }

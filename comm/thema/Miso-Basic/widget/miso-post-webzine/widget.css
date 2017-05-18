@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.widget-miso-post-webzine .item-wrap { overflow:hidden; line-height:20px; }
+.widget-miso-post-webzine .item-row { float:left; }
+.widget-miso-post-webzine .subj-bold { font-weight:bold; }
+.widget-miso-post-webzine .item-img.pull-left { margin-right:12px; }
+.widget-miso-post-webzine .item-img.pull-right { margin-left:12px; }
+.widget-miso-post-webzine .item-content { }
+.widget-miso-post-webzine .item-content p { color:#888; padding:0px; margin:6px 0px 0px; }
+.widget-miso-post-webzine .item-none { padding:50px 10px; }
